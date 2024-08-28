@@ -1,7 +1,7 @@
 # Data-_Visualisation-2
 Api-Tableau ( Gaming Dashboard )
 
-Step 1 : I fetched the data from api and stored in local drive.
+Step 1 : i have downloaded the data from vg chart.
 
 step 2 : I cleaned the data in Tableau prep .
 
