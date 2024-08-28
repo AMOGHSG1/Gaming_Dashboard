@@ -1,5 +1,5 @@
 # Data-_Visualisation-2
-Api-Tableau ( Gaming Dashboard )
+Tableau ( Gaming Dashboard )
 
 Step 1 : i have downloaded the data from vg chart.
 
