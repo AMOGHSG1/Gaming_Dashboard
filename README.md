@@ -1,7 +1,7 @@
 # Data-_Visualisation-2
 Tableau ( Gaming Dashboard )
 
-Step 1 : i have downloaded the data from vg chart.
+Step 1 : I have downloaded the dataset from vg chart.
 
 step 2 : I cleaned the data in Tableau prep .
 
