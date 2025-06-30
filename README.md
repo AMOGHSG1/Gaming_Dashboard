@@ -1,5 +1,4 @@
-# Data-_Visualisation-2
-Tableau ( Gaming Dashboard )
+# Tableau ( Gaming Dashboard )
 
 Step 1 : I have downloaded the dataset from vg chart.
 
