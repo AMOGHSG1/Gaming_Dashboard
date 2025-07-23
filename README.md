@@ -1,5 +1,7 @@
 # Tableau ( Gaming Dashboard )
 
+> ![image](Video_Games_Sales_Dashboard.png)
+
 Step 1 : I have downloaded the dataset from vg chart.
 
 step 2 : I cleaned the data in Tableau prep .
